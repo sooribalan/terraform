@@ -1,5 +1,5 @@
 variable "rg2" {
   type    = list(string)
-  default = ["IT", "TechnologyRG", "AdminRG", "HRRG"]
+  default = ["IT", "TechnologyRG", "AdminRG", "HRRG", "Asessment"]
 
 }
